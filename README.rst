@@ -44,3 +44,19 @@ The Bugs
   <https://www.latimes.com/business/story/2020-04-27/irs-website-hack-coronavirus-stimulus-checks-all-caps>`_
 
 * `Tay, The Racist AI Bot <https://en.wikipedia.org/wiki/Tay_(bot)>`_
+
+
+Contributing
+------------
+
+If you know of a bug that should be on this list, please do send a pull
+request!
+
+My bias in the list is towards bugs that are more "how is that even
+possible" kinds of bugs than pure "face-palming" bugs, though sometimes
+the line between the two is blurry. But e.g., the Gemini 5 spacecraft
+crashed because it had the wrong value for an important constant used to
+fly it -- a terrible and critical bug, but not one for the list above.
+
+But any bug so interesting it's questionable for inclusion is woth
+considering.
