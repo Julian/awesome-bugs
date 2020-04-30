@@ -38,7 +38,8 @@ The Bugs
   <https://apple.stackexchange.com/questions/363337/how-to-find-cause-of-high-kernel-task-cpu-usage/363933#363933>`_
 
 * `Python 2 Can't Compile Bytecode Past 2038
-  <https://bugs.python.org/issue34990>`_
+  <https://bugs.python.org/issue34990>`_ (The `Year 2038 Problem
+  <https://en.wikipedia.org/wiki/Year_2038_problem>`_)
 
 * `IRS Site Only Delivers Stimulus Status When COERCED
   <https://www.latimes.com/business/story/2020-04-27/irs-website-hack-coronavirus-stimulus-checks-all-caps>`_
