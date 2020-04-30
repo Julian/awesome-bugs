@@ -62,5 +62,5 @@ The bias is also towards technical detail, so bug reports over
 storytelling. If there are both available for a particular bug,
 definitely include the bug report and diagnosis.
 
-But any bug so interesting it's questionable for inclusion is woth
-considering.
+But any bug so interesting it's questionable for inclusion is worth
+considering!
