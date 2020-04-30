@@ -58,5 +58,9 @@ the line between the two is blurry. But e.g., the Gemini 5 spacecraft
 crashed because it had the wrong value for an important constant used to
 fly it -- a terrible and critical bug, but not one for the list above.
 
+The bias is also towards technical detail, so bug reports over
+storytelling. If there are both available for a particular bug,
+definitely include the bug report and diagnosis.
+
 But any bug so interesting it's questionable for inclusion is woth
 considering.
