@@ -44,6 +44,9 @@ The Bugs
 * `IRS Site Only Delivers Stimulus Status When COERCED
   <https://www.latimes.com/business/story/2020-04-27/irs-website-hack-coronavirus-stimulus-checks-all-caps>`_
 
+* `Reboot Your Boeing 787 Every 248 Days
+  <https://www.theguardian.com/business/2015/may/01/us-aviation-authority-boeing-787-dreamliner-bug-could-cause-loss-of-control>`_
+
 * `Tay, The Racist AI Bot <https://en.wikipedia.org/wiki/Tay_(bot)>`_
 
 
