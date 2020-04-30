@@ -50,6 +50,13 @@ The Bugs
 * `Tay, The Racist AI Bot <https://en.wikipedia.org/wiki/Tay_(bot)>`_
 
 
+Other Kind-of-Similar Lists
+---------------------------
+
+* `Wikipedia's List of Software Bugs
+  <https://en.wikipedia.org/wiki/List_of_software_bugs>`_
+
+
 Contributing
 ------------
 
