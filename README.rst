@@ -49,6 +49,7 @@ The Bugs
 
 * `Tay, The Racist AI Bot <https://en.wikipedia.org/wiki/Tay_(bot)>`_
 
+* `Nuclear Gandhi <https://medium.com/4thought-studios/gandhi-and-the-nuclear-option-32c8fa251280>`_
 
 Other Kind-of-Similar Lists
 ---------------------------
