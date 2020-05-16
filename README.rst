@@ -54,6 +54,9 @@ The Bugs
 Other Kind-of-Similar Lists
 ---------------------------
 
+* `Dan Luu's Debugging Stories
+  <https://github.com/danluu/debugging-stories>`_
+
 * `Wikipedia's List of Software Bugs
   <https://en.wikipedia.org/wiki/List_of_software_bugs>`_
 
