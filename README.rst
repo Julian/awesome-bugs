@@ -51,6 +51,8 @@ The Bugs
 
 * `Nuclear Gandhi <https://medium.com/4thought-studios/gandhi-and-the-nuclear-option-32c8fa251280>`_
 
+* `pytest Hangs Forever Every 50th or 150th or ...th Run <http://skybert.net/python/python-pytest-hangs-forever/>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
