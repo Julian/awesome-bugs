@@ -53,6 +53,8 @@ The Bugs
 
 * `pytest Hangs Forever Every 50th or 150th or ...th Run <http://skybert.net/python/python-pytest-hangs-forever/>`_
 
+* `How I Cut GTA Online Loading Times by 70% <https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
