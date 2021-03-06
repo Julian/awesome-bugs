@@ -55,6 +55,8 @@ The Bugs
 
 * `How I Cut GTA Online Loading Times by 70% <https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/>`_
 
+* `The Racist Soap Dispenser <https://twitter.com/nke_ise/status/897756900753891328?ref_src=twsrc%5Etfw>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
