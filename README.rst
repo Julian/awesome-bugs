@@ -57,6 +57,8 @@ The Bugs
 
 * `The Racist Soap Dispenser <https://twitter.com/nke_ise/status/897756900753891328?ref_src=twsrc%5Etfw>`_
 
+* `The Zune Bug on 2008-12-31 <http://bit-player.org/2009/the-zune-bug>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
