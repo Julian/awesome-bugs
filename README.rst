@@ -68,6 +68,9 @@ Other Kind-of-Similar Lists
 * `Wikipedia's List of Software Bugs
   <https://en.wikipedia.org/wiki/List_of_software_bugs>`_
 
+* `Russell Davidson's Specification Gaming Examples in AI
+  <https://russell-davidson.arts.mcgill.ca/e706/gaming.examples.in.AI.html>`_
+
 
 Contributing
 ------------
