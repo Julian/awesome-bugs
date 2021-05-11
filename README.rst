@@ -45,7 +45,9 @@ The Bugs
   <https://www.latimes.com/business/story/2020-04-27/irs-website-hack-coronavirus-stimulus-checks-all-caps>`_
 
 * `Reboot Your Boeing 787 Every 248 Days
-  <https://www.theguardian.com/business/2015/may/01/us-aviation-authority-boeing-787-dreamliner-bug-could-cause-loss-of-control>`_
+  <https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/>`_
+  (and maybe `reboot your Windows 98 <https://web.archive.org/web/20060623143454/http://support.microsoft.com/default.aspx?scid=KB;EN-US;Q216641&>`_
+  too).
 
 * `Tay, The Racist AI Bot <https://en.wikipedia.org/wiki/Tay_(bot)>`_
 
