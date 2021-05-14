@@ -61,6 +61,8 @@ The Bugs
 
 * `The Zune Bug on 2008-12-31 <http://bit-player.org/2009/the-zune-bug>`_
 
+* A Haskell Compiler, Albeit a Dev Version, `Really Really Wants Your Code to Type Check <https://gitlab.haskell.org/ghc/ghc/-/issues/163>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
