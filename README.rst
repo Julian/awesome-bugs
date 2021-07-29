@@ -63,6 +63,8 @@ The Bugs
 
 * A Haskell Compiler, Albeit a Dev Version, `Really Really Wants Your Code to Type Check <https://gitlab.haskell.org/ghc/ghc/-/issues/163>`_
 
+* Dwarf Fortress `kills cats <https://www.youtube.com/watch?v=6yWf6BHqiWM>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
