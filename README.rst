@@ -65,6 +65,8 @@ The Bugs
 
 * Dwarf Fortress `kills cats <https://www.youtube.com/watch?v=6yWf6BHqiWM>`_
 
+* `A strangely long second on 1927-12-31 in Shanghai <https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result/>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
