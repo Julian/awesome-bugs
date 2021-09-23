@@ -64,6 +64,7 @@ The Bugs
 * A Haskell Compiler, Albeit a Dev Version, `Really Really Wants Your Code to Type Check <https://gitlab.haskell.org/ghc/ghc/-/issues/163>`_
 
 * Dwarf Fortress `kills cats <https://www.youtube.com/watch?v=6yWf6BHqiWM>`_
+  (`creator interview here <https://www.youtube.com/watch?v=VAhHkJQ3KgY>`_)
 
 * `A strangely long second on 1927-12-31 in Shanghai <https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result/>`_
 
