@@ -66,7 +66,11 @@ The Bugs
 * Dwarf Fortress `kills cats <https://www.youtube.com/watch?v=6yWf6BHqiWM>`_
   (`creator interview here <https://www.youtube.com/watch?v=VAhHkJQ3KgY>`_)
 
-* `A strangely long second on 1927-12-31 in Shanghai <https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result/>`_
+* `A strangely long second on 1927-12-31 in Shanghai
+  <https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result/>`_
+
+* `Using OCR to Fix a Hilarious Bug
+  <https://artsy.github.io/blog/2015/11/05/Using-OCR-To-Fix-A-Hilarious-Bug/>`_
 
 Other Kind-of-Similar Lists
 ---------------------------
