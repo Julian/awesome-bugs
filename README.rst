@@ -72,6 +72,9 @@ The Bugs
 * `Using OCR to Fix a Hilarious Bug
   <https://artsy.github.io/blog/2015/11/05/Using-OCR-To-Fix-A-Hilarious-Bug/>`_
 
+* `Seattle Mazda drivers can't change the radio dial
+  <https://www.kuow.org/stories/we-didn-t-mean-to-ruin-your-mazda-s-stereo>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
