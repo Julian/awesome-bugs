@@ -75,6 +75,9 @@ The Bugs
 * `Seattle Mazda drivers can't change the radio dial
   <https://www.kuow.org/stories/we-didn-t-mean-to-ruin-your-mazda-s-stereo>`_
 
+* `All you need for Russell's paradox is a big enough universe
+  <https://github.com/agda/agda/issues/5706>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
