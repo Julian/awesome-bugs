@@ -78,6 +78,9 @@ The Bugs
 * `All you need for Russell's paradox is a big enough universe
   <https://github.com/agda/agda/issues/5706>`_
 
+* `Janet Jackson had the power to crash laptop computers <https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994>`_
+  (with a `CVE <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392>`_)
+
 Other Kind-of-Similar Lists
 ---------------------------
 
