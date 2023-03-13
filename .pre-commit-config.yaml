@@ -8,7 +8,7 @@ repos:
         args: [--fix, lf]
       - id: trailing-whitespace
 -   repo: https://github.com/rstcheck/rstcheck
-    rev: 'v6.1.1'
+    rev: 'v6.1.2'
     hooks:
     -   id: rstcheck
         args: [--report-level=warning]
