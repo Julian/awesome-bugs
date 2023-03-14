@@ -81,6 +81,9 @@ The Bugs
 * `Janet Jackson had the power to crash laptop computers <https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994>`_
   (with a `CVE <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392>`_, an `Adam Neely video <https://www.youtube.com/watch?v=-y3RGeaxksY>`_ and a `follow-up by 99% Invisible <https://99percentinvisible.org/episode/mini-stories-volume-15/3/>`_)
 
+* `No keyboard detected. Press F1 to continue.
+  <https://boards.straightdope.com/t/no-keyboard-detected-press-f1-to-continue/490946>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
