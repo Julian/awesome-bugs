@@ -71,6 +71,8 @@ Other Kind-of-Similar Lists
 
 * `Russell Davidson's Specification Gaming Examples in AI <https://russell-davidson.arts.mcgill.ca/e706/gaming.examples.in.AI.html>`_
 
+* `Adversarial Machine Learning <https://en.wikipedia.org/wiki/Adversarial_machine_learning>`_
+
 
 Contributing
 ------------
