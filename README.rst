@@ -60,6 +60,8 @@ The Bugs
 
 * `Janet Jackson had the power to crash laptop computers <https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994>`_ (with a `CVE <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392>`_, an `Adam Neely video <https://www.youtube.com/watch?v=-y3RGeaxksY>`_ and a `follow-up by 99% Invisible <https://99percentinvisible.org/episode/mini-stories-volume-15/3/>`_)
 
+* `One pixel to make a bus look like a bear? <https://arxiv.org/abs/1710.08864>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
