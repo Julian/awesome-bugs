@@ -71,7 +71,7 @@ Other Kind-of-Similar Lists
 
 * `Wikipedia's List of Software Bugs <https://en.wikipedia.org/wiki/List_of_software_bugs>`_
 
-* `Russell Davidson's Specification Gaming Examples in AI <https://russell-davidson.arts.mcgill.ca/e706/gaming.examples.in.AI.html>`_
+* `Russell Davidson's Specification Gaming Examples in AI <https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml>`_
 
 * `Adversarial Machine Learning <https://en.wikipedia.org/wiki/Adversarial_machine_learning>`_
 
