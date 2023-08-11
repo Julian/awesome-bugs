@@ -62,6 +62,8 @@ The Bugs
 
 * `One pixel to make a bus look like a bear? <https://arxiv.org/abs/1710.08864>`_
 
+* `Pentium FDIV Bug <https://en.wikipedia.org/wiki/Pentium_FDIV_bug>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
