@@ -64,6 +64,8 @@ The Bugs
 
 * `Pentium FDIV Bug <https://en.wikipedia.org/wiki/Pentium_FDIV_bug>`_
 
+* `Debugging an evil Go runtime bug with an heat gun <https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
