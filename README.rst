@@ -66,6 +66,8 @@ The Bugs
 
 * `Debugging an evil Go runtime bug with an heat gun <https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/>`_
 
+* `print(“lol”) doubled the speed of my Go function <https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
