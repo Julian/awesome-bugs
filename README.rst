@@ -68,6 +68,8 @@ The Bugs
 
 * `print(“lol”) doubled the speed of my Go function <https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92>`_
 
+* `Reptar in your CPU <https://lock.cmpxchg8b.com/reptar.html>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
