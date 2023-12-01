@@ -70,6 +70,8 @@ The Bugs
 
 * `Reptar in your CPU <https://lock.cmpxchg8b.com/reptar.html>`_
 
+* `Gusto's Weirdest Bug <https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
