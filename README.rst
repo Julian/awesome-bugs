@@ -72,6 +72,8 @@ The Bugs
 
 * `Gusto's Weirdest Bug <https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/>`_
 
+* `I broke IKEA <https://cohost.org/sirocyl/post/2891449-i-broke-ikea>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
