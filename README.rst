@@ -46,6 +46,8 @@ The Bugs
 
 * `The Zune Bug on 2008-12-31 <http://bit-player.org/2009/the-zune-bug>`_
 
+* `The Commodore 64 locked up if the cursor was red but not if it was purple, so make sure you use the right color before starting to program <https://retrocomputing.stackexchange.com/questions/20438/how-did-the-c64-lockup-bug-and-its-workarounds-work>`_
+
 * A Haskell Compiler, Albeit a Dev Version, `Really Really Wants Your Code to Type Check <https://gitlab.haskell.org/ghc/ghc/-/issues/163>`_
 
 * Dwarf Fortress `kills cats <https://www.youtube.com/watch?v=6yWf6BHqiWM>`_ (`creator interview here <https://www.youtube.com/watch?v=VAhHkJQ3KgY>`_)
