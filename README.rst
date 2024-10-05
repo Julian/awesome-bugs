@@ -76,6 +76,8 @@ The Bugs
 
 * `I broke IKEA <https://cohost.org/sirocyl/post/2891449-i-broke-ikea>`_
 
+* `Why does man print "gimme gimme gimme" at 00:30? <https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
