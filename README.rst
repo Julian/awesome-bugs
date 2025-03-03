@@ -78,6 +78,8 @@ The Bugs
 
 * `Why does man print "gimme gimme gimme" at 00:30? <https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030>`_
 
+* `Ubuntu Mate shows an oversized cropped UN flag in the panel after a system update <https://ubuntu-mate.community/t/how-to-fix-strange-un-united-nations-flag-logo-emblem-icon-issue/27449>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
