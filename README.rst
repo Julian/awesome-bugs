@@ -80,6 +80,8 @@ The Bugs
 
 * `Ubuntu MATE shows an oversized cropped United Nations flag in the panel after a system update <https://ubuntu-mate.community/t/how-to-fix-strange-un-united-nations-flag-logo-emblem-icon-issue/27449>`_
 
+* `Cursor IDE support hallucinates lockout policy, causes user cancellations <https://news.ycombinator.com/item?id=43683012>`_
+
 Other Kind-of-Similar Lists
 ---------------------------
 
