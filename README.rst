@@ -12,7 +12,7 @@ The Bugs
 
 * `Open Office Won't Print on Tuesdays <https://bugs.launchpad.net/ubuntu/+source/cupsys/+bug/255161>`_
 
-* `We Can't Send Email Farther Than 500 Miles <http://www.ibiblio.org/harris/500milemail.html>`_
+* `We Can't Send Email Farther Than 500 Miles <http://www.ibiblio.org/harris/500milemail.html>`_ (and its `FAQ <https://www.ibiblio.org/harris/500milemail-faq.html>`_)
 
 * `Bedlam DL3 <https://techcommunity.microsoft.com/blog/exchange/me-too/610643>`_
 
