@@ -14,6 +14,8 @@ The Bugs
 
 * `We Can't Send Email Farther Than 500 Miles <http://www.ibiblio.org/harris/500milemail.html>`_
 
+* `Bedlam DL3 <https://techcommunity.microsoft.com/blog/exchange/me-too/610643>`_
+
 * `Print This File, Your Printer Will Jam <https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html>`_
 
 * `Pokemon Sword and Shield are Crashing Roku Devices <https://gamerant.com/pokemon-sword-shield-roku-device-crash/>`_
