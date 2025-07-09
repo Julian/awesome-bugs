@@ -89,6 +89,8 @@ Other Kind-of-Similar Lists
 
 * `Dan Luu's Debugging Stories <https://github.com/danluu/debugging-stories>`_
 
+* `Bug Stories by "500 Mile Email" <https://500mile.email/>`_
+
 * `umutphp's Famous Bugs <https://github.com/umutphp/famous-bugs>`_
 
 * `Wikipedia's List of Software Bugs <https://en.wikipedia.org/wiki/List_of_software_bugs>`_
