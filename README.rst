@@ -80,6 +80,8 @@ The Bugs
 
 * `Why does man print "gimme gimme gimme" at 00:30? <https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030>`_
 
+* `Even Ada Lovelace's very first program has a bug! <https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html>`_
+
 * `Ubuntu MATE shows an oversized cropped United Nations flag in the panel after a system update <https://ubuntu-mate.community/t/how-to-fix-strange-un-united-nations-flag-logo-emblem-icon-issue/27449>`_
 
 * `Cursor IDE support hallucinates lockout policy, causes user cancellations <https://news.ycombinator.com/item?id=43683012>`_
